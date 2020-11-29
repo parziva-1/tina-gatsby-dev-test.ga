@@ -1,11 +1,11 @@
 {
   "menuItems": [
     {
-      "label": "Home",
+      "label": "Inicio",
       "link": "/"
     },
     {
-      "label": "About",
+      "label": "Quienes Somos",
       "link": "/about"
     },
     {
@@ -13,7 +13,7 @@
       "link": "/blog"
     },
     {
-      "label": "Contact",
+      "label": "Contacto",
       "link": "/contact"
     }
   ]

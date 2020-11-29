@@ -4,6 +4,12 @@
       "name": "Jaime Linares",
       "id": "Jaime-Linares",
       "email": "jmovies1771@gmail.com"
+    },
+    {
+      "id": "scott-byrne",
+      "name": "Scott Byrne",
+      "email": "scott.byrne@forestry.io",
+      "link": "mailto:scott.byrne@forestry.io"
     }
   ]
 }
