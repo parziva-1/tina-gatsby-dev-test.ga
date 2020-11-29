@@ -12,11 +12,11 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "Bienvenido a Dev-Test.ga",
+    "textline": "Un lugar donde aprender.",
     "ctas": [
       {
-        "label": "Read The Blog",
+        "label": "Lee nuestro blog",
         "link": "/blog",
         "primary": true,
         "arrow": true
